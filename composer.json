@@ -1,0 +1,27 @@
+{
+  "name": "awebdesign/ovebotai",
+  "description": "Ovebot.ai integration for PrestaShop: AI chatbot, live chat and AI sales agent",
+  "type": "prestashop-module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "AWeb Design SRL"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ovebotai\\": "src/"
+    }
+  },
+  "config": {
+    "prepend-autoloader": false,
+    "optimize-autoloader": true,
+    "platform": {
+      "php": "7.1.3"
+    },
+    "platform-check": false
+  }
+}

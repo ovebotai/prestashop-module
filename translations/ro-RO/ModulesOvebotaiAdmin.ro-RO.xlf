@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-dev" source-language="en-US" target-language="ro-RO" datatype="plaintext">
+    <body>
+      <trans-unit id="2279e256b1bbc13d88f2c9dc4de7419e">
+        <source>%active% of %total% entries active</source>
+        <target state="translated">%active% din %total% intrări active</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b9486aa41cd280296a43874b793b71f4">
+        <source>Accent colour</source>
+        <target state="translated">Culoare accent</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4d3d769b812b6faa6b76e1a8abaece2d">
+        <source>Active</source>
+        <target state="translated">Activ</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d708666003d5d54cba43b58221b7aca5">
+        <source>add one here</source>
+        <target state="translated">adaugă una aici</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9ddb1d3879c0e80e612e4ea112193b1a">
+        <source>Adjust the value to place the chat widget below/above another element on the page.</source>
+        <target state="translated">Ajustează valoarea pentru a plasa chatul sub/peste alt element din pagină.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="876e044c3585fb936152746d0cfd7730">
+        <source>AI chatbot and live chat that recommends your products, answers from your pages and tracks orders 24/7.</source>
+        <target state="translated">Chatbot AI și live chat care îți recomandă produsele, răspunde din paginile tale și urmărește comenzile 24/7.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="62898281dcf6d9380f9b534906b462bb">
+        <source>All done!</source>
+        <target state="translated">Gata!</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b028ccd04708b8c3c7722956e149a718">
+        <source>An error occurred. Please try again.</source>
+        <target state="translated">A apărut o eroare. Te rugăm să încerci din nou.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="37e31370e4ab230ff6fba12cc6390aff">
+        <source>API password</source>
+        <target state="translated">Parolă API</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ef74b24446c7f40ee913defb8dea022e">
+        <source>API user</source>
+        <target state="translated">Utilizator API</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a1c58e94227389415de133efdf78ea6e">
+        <source>Appearance</source>
+        <target state="translated">Aspect</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="18ef77dfdce410021de3989d7959e1bb">
+        <source>A short message that pops up on its own to invite visitors to chat. Leave empty to disable.</source>
+        <target state="translated">Un mesaj scurt care apare singur pentru a invita vizitatorii la chat. Lasă gol pentru a dezactiva.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e5786c29fd8875ec99e0d18bcf272e0a">
+        <source>Audio beep</source>
+        <target state="translated">Semnal audio</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="060993aa0df3e09850a043c6384f46ac">
+        <source>Authorization was cancelled.</source>
+        <target state="translated">Autorizarea a fost anulată.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="87352b07619649c4babedde5322ac4b4">
+        <source>Auto (browser)</source>
+        <target state="translated">Automat (browser)</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b67554192c50f4f6a4c1bd4797f6c3f8">
+        <source>Bottom left</source>
+        <target state="translated">Jos stânga</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5968e3c37145f57587afcba727d2b120">
+        <source>Bottom right</source>
+        <target state="translated">Jos dreapta</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="274a00b14b94e09e13c9cc9588226c0e">
+        <source>Chat is disabled, enable it in settings</source>
+        <target state="translated">Chat-ul este dezactivat, activează-l în setări</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="aee9edb3fb8538604d3e3d5255b11fbc">
+        <source>Chat settings saved. Reconnect to Ovebot.ai to sync feed and order settings.</source>
+        <target state="translated">Setările de chat au fost salvate. Reconectează-te la Ovebot.ai pentru a sincroniza setările de feed și comenzi.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a193b3d9bb035131c6980efc8efebfd9">
+        <source>Chat with the AI agent</source>
+        <target state="translated">Discută cu agentul AI</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8603b389ad1cf2d554db9e419c5304be">
+        <source>Checking how many products can be sent to your AI agent…</source>
+        <target state="translated">Se verifică câte produse pot fi trimise agentului tău AI…</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c6a51256b1e144530a263fc654cf78df">
+        <source>Configure appearance</source>
+        <target state="translated">Configurează aspectul</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5a70fa9bcb546858a137c11468967f5e">
+        <source>Connect account</source>
+        <target state="translated">Conectează contul</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2ec0d16e4ca169baedb9b2d50ec5c6d7">
+        <source>Connected</source>
+        <target state="translated">Conectat</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e7455bfbf5ffadb0c9fcc845b31eaf25">
+        <source>Connect your store to Ovebot.ai</source>
+        <target state="translated">Conectează magazinul la Ovebot.ai</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6d6db52799620de23c1e87d00abde8c4">
+        <source>Copied!</source>
+        <target state="translated">Copiat!</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5fb63579fc981698f97d55bfecb213ea">
+        <source>Copy</source>
+        <target state="translated">Copiază</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2f678275a846eb452f3fe3bb09df80e9">
+        <source>Couldn't reach Ovebot.ai right now.</source>
+        <target state="translated">Ovebot.ai nu poate fi contactat momentan.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5f3317834f33029902026698e7435b80">
+        <source>Could not load knowledge base entries from Ovebot.ai.</source>
+        <target state="translated">Nu s-au putut încărca intrările din baza de cunoștințe de la Ovebot.ai.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="53bde4f2bc8dc8ea1b9539f8e133ae3e">
+        <source>Could not sync feed and order settings with Ovebot.ai.</source>
+        <target state="translated">Nu s-au putut sincroniza setările de feed și comenzi cu Ovebot.ai.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="129f4658fbe8d46b440d01cff7d257d5">
+        <source>Could not sync knowledge base entry for &quot;%title%&quot;. %error%</source>
+        <target state="translated">Nu s-a putut sincroniza intrarea din baza de cunoștințe pentru „%title%”. %error%</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b448dad6a66d7031ce6d2cd55214a378">
+        <source>Could not sync with Ovebot.ai - credentials left unchanged.</source>
+        <target state="translated">Nu s-a putut sincroniza cu Ovebot.ai - credențialele au rămas neschimbate.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="515b11abbd170bff953ddbcac9febaad">
+        <source>Could not sync with Ovebot.ai - feed hash left unchanged.</source>
+        <target state="translated">Nu s-a putut sincroniza cu Ovebot.ai - codul feed-ului a rămas neschimbat.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0c37ad379ab6ce4b583410e0e20aba0f">
+        <source>Credentials regenerated.</source>
+        <target state="translated">Credențialele au fost regenerate.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f8bb94d7699d65594909ed8c9ee7228f">
+        <source>Credentials regenerated and synced with Ovebot.ai.</source>
+        <target state="translated">Credențialele au fost regenerate și sincronizate cu Ovebot.ai.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a18366b217ebf811ad1886e4f4f865b2">
+        <source>Dark</source>
+        <target state="translated">Închis</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2938c7f7e560ed972f8a4f68e80ff834">
+        <source>Dashboard</source>
+        <target state="translated">Panou de control</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7a1920d61156abc05a60135aefe8bc67">
+        <source>Default</source>
+        <target state="translated">Implicit</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="59be58dacc107daf4eb62486a954b515">
+        <source>Default (light)</source>
+        <target state="translated">Implicit (deschis)</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1e960d059d9b0ba407345cd656895848">
+        <source>Default (play)</source>
+        <target state="translated">Implicit (redă)</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d59d90bd9144b51720624e290bda9088">
+        <source>Default (right)</source>
+        <target state="translated">Implicit (dreapta)</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b9f5c797ebbf55adccdd8539a65a0241">
+        <source>Disabled</source>
+        <target state="translated">Dezactivat</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="42ae25231906c83927831e0ef7c317ac">
+        <source>Disconnect</source>
+        <target state="translated">Deconectează</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3508ba493a737155afb0f07b9d412329">
+        <source>Disconnect this store from Ovebot.ai? The AI chat agent will stop working until you reconnect.</source>
+        <target state="translated">Deconectezi acest magazin de la Ovebot.ai? Agentul AI de chat nu va mai funcționa până la reconectare.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="41e22d8cb8cb59ce0736a1732b41e79d">
+        <source>e.g. Need help finding something?</source>
+        <target state="translated">ex. Ai nevoie de ajutor să găsești ceva?</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="64beafebc4f596d44865e580e7251d29">
+        <source>e.g. Usually replies in a few minutes</source>
+        <target state="translated">ex. De obicei răspunde în câteva minute</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="23003c03decfbf325c3f59eb2e9234f6">
+        <source>Edit on Ovebot.ai</source>
+        <target state="translated">Editează pe Ovebot.ai</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="00d23a76e43b46dae9ec7aa9dcbebb32">
+        <source>Enabled</source>
+        <target state="translated">Activat</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f8a61657030a32899e776600123fb25b">
+        <source>Enable order tracking</source>
+        <target state="translated">Activează urmărirea comenzilor</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="714291c763b00d3e9897bf8138ee0be8">
+        <source>Endpoint URL</source>
+        <target state="translated">URL endpoint</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="129e322da9316f46a8f0a983e54dc36a">
+        <source>Everything is set. Click below to send the selected pages and products to Ovebot.ai - your AI chat agent will start using them right away.</source>
+        <target state="translated">Totul este pregătit. Apasă mai jos pentru a trimite paginile și produsele selectate către Ovebot.ai - agentul tău AI de chat le va folosi imediat.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="62eed6de426b4045d6bcc98d606ade57">
+        <source>Feed URL</source>
+        <target state="translated">URL feed</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f60240f3f8abfac04e787cf6e6b26a00">
+        <source>Feed URL regenerated.</source>
+        <target state="translated">URL-ul feed-ului a fost regenerat.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0572cde4da79813b5e9424a01df3c536">
+        <source>Feed URL regenerated and synced with Ovebot.ai.</source>
+        <target state="translated">URL-ul feed-ului a fost regenerat și sincronizat cu Ovebot.ai.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="278c131b1d0e88308d2fd7abb667dd4d">
+        <source>Fine-tune your AI agent right from your Ovebot.ai account - that's where the advanced options and customizations live.</source>
+        <target state="translated">Ajustează-ți agentul AI direct din contul tău Ovebot.ai - acolo găsești opțiuni avansate și personalizări.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="85a18a0474d135c1f4c6da6c383a2d81">
+        <source>Finish setup</source>
+        <target state="translated">Finalizează configurarea</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="08b6479a7fba5a9b4de875f991a43e4c">
+        <source>Free forever. No credit card.</source>
+        <target state="translated">Gratuit pentru totdeauna. Fără card.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="db2c93320e6a87ad587d3baa9591aeef">
+        <source>Generates a new user/password pair. The old ones will stop working immediately.</source>
+        <target state="translated">Generează o nouă pereche utilizator/parolă. Cele vechi vor înceta să funcționeze imediat.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="93a254192326d9cb195c631109eb0868">
+        <source>Go live 🎉</source>
+        <target state="translated">Publică 🎉</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a8808a51197e6e2374a6e459b39d0e66">
+        <source>Go to settings</source>
+        <target state="translated">Mergi la setări</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6c92285fa6d3e827b198d120ea3ac674">
+        <source>here</source>
+        <target state="translated">aici</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1a7589a929e9135e19e73cc8f7eebdcc">
+        <source>I'll provide my own feed</source>
+        <target state="translated">Voi furniza un alt feed</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3b2aee63259f6dc9b94914884474f8de">
+        <source>I already have an account</source>
+        <target state="translated">Am deja un cont</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3cab03c00dbd11bc3569afa0748013f0">
+        <source>Inactive</source>
+        <target state="translated">Inactiv</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d475c4ee5a55a62f010950784d9dfb6a">
+        <source>Knowledge Bases</source>
+        <target state="translated">Baze de cunoștințe</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4994a8ffeba4ac3140beb89e8d41f174">
+        <source>Language</source>
+        <target state="translated">Limbă</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9914a0ce04a7b7b6a8e39bec55064b82">
+        <source>Light</source>
+        <target state="translated">Deschis</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3cfebecec20e8ff535bdcbf3ca74717b">
+        <source>Look &amp; feel</source>
+        <target state="translated">Aspect &amp; stil</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3b005600f8b2dd1ab1d15bb0dc24278d">
+        <source>Looking for advanced settings?</source>
+        <target state="translated">Cauți setări avansate?</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="41de6d6cfb8953c021bbe4ba0701c8a1">
+        <source>Messages</source>
+        <target state="translated">Mesaje</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="10ac3d04253ef7e1ddc73e6091c0cd55">
+        <source>Next</source>
+        <target state="translated">Înainte</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1e447e64959223f8b45746389c20e120">
+        <source>No enabled CMS pages found. You can still add knowledge base entries in your %link%.</source>
+        <target state="translated">Nu au fost găsite pagini CMS active. Poți adăuga în continuare intrări în baza de cunoștințe din %link%.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="69536434d9ddd5bdbb0d96d53e8cc547">
+        <source>No enabled products found - your AI agent won't have any products to recommend yet.</source>
+        <target state="translated">Nu au fost găsite produse active - agentul tău AI nu va avea încă produse de recomandat.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7af304922ca2de850ff2169a73d9f9d4">
+        <source>No knowledge base entries yet - %link%.</source>
+        <target state="translated">Nu există încă intrări în baza de cunoștințe - %link%.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6adf97f83acf6453d4a6a4b1070f3754">
+        <source>None</source>
+        <target state="translated">Fără</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7b277018e43d41bc445731092b91547d">
+        <source>Not connected</source>
+        <target state="translated">Neconectat</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e5c7e75f1ce848528e709deb4c1a1357">
+        <source>On-site chat widget</source>
+        <target state="translated">Chat pe site</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="dd5eab440754d3d3d9fd1e53bb6ba176">
+        <source>Only products that can be ordered right now (in stock or available on backorder) are sent to Ovebot.ai.</source>
+        <target state="translated">Sunt trimise către Ovebot.ai doar produsele care pot fi comandate acum (în stoc sau disponibile la precomandă).</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1c9b038dac160531781ca6cb36b76540">
+        <source>Open account settings</source>
+        <target state="translated">Deschide setările contului</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d2a4780d7d0eb5afeed62b26db1f5d62">
+        <source>Order tracking API</source>
+        <target state="translated">API urmărire comenzi</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="86c2100fa10e01d127dc86cecec4eaf4">
+        <source>Order tracking is turned off</source>
+        <target state="translated">Tracking-ul comenzilor este dezactivat</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fc202528a5c92fd79dcafadb41b65d67">
+        <source>Ovebot - AI Chatbot, Live Chat &amp; AI Sales Agent</source>
+        <target state="translated">Ovebot - Chatbot AI, Live Chat &amp; Agent AI de Vânzări</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="deca707e6c481d225573f8e2a7f1a08c">
+        <source>Ovebot.ai</source>
+        <target state="translated">Ovebot.ai</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3f969c46e2f66f3886ac0f9fb1707d4e">
+        <source>Ovebot.ai account</source>
+        <target state="translated">Contul Ovebot.ai</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7839a34d9ddee7a66f2af1d1dc3a0be0">
+        <source>Ovebot.ai calls this endpoint, authenticated with the credentials below, so your AI agent can answer &quot;Where is my order?&quot; questions with live tracking info.</source>
+        <target state="translated">Ovebot.ai apelează acest endpoint, autentificat cu datele de mai jos, astfel încât agentul AI poate răspunde la întrebări de tip „Unde este comanda mea?” cu informații live de urmărire.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7f3bec240526bc3532435d385549906c">
+        <source>Ovebot.ai connects each shop separately. Pick the shop you want to configure.</source>
+        <target state="translated">Ovebot.ai conectează fiecare magazin separat. Alege magazinul pe care vrei să îl configurezi.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="deb90be07b25b8547a11deec5363c034">
+        <source>Ovebot.ai reads this URL periodically to keep your AI agent's product recommendations up to date with your catalog (stock, price, availability).</source>
+        <target state="translated">Ovebot.ai citește periodic acest URL pentru a menține recomandările de produse ale agentului AI la zi cu catalogul tău (stoc, preț, disponibilitate).</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="de3c731be5633838089a07179d301d7b">
+        <source>Play</source>
+        <target state="translated">Redă</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="358bec45c0e445d45725f3980ca65189">
+        <source>Position on page</source>
+        <target state="translated">Poziție pe pagină</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="dd1f775e443ff3b9a89270713580a51b">
+        <source>Previous</source>
+        <target state="translated">Înapoi</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="37619ebc682ec6f8aff2455d49df56a7">
+        <source>Proactive message</source>
+        <target state="translated">Mesaj proactiv</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5084335733aec1e6833956204249b09a">
+        <source>Product feed</source>
+        <target state="translated">Feed de produse</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="449dfba74ada19e919dfada4d7f57ba0">
+        <source>Product recommendations are turned off</source>
+        <target state="translated">Recomandările de produse sunt dezactivate</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="068f80c7519d0528fb08e82137a72131">
+        <source>Products</source>
+        <target state="translated">Produse</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2f6c5c80910226a3da74bf81ff961eb8">
+        <source>Products indexed by the AI agent</source>
+        <target state="translated">Produse indexate de agentul AI</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f3af8150005062fd45b9a0cefd5343ef">
+        <source>products will be sent to your AI agent so it can recommend them to customers.</source>
+        <target state="translated">produse vor fi trimise agentului tău AI, ca să le poată recomanda clienților.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="05869b9a511516591b4edc4e9276fd6b">
+        <source>px offset from bottom</source>
+        <target state="translated">px distanță de jos</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b8c308b310101fdff4b7f919098fa2d9">
+        <source>px offset from the side</source>
+        <target state="translated">px distanță de la margine</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="463d99e34c9e85fdea3588db1158d168">
+        <source>Raise the offset to sit the widget above another floating button, e.g. WhatsApp.</source>
+        <target state="translated">Mărește distanța pentru a poziționa widget-ul deasupra altui buton plutitor, ex. WhatsApp.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="781a91b0067ab96874f33d57d391ee0c">
+        <source>Ready to go live</source>
+        <target state="translated">Gata de publicare</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8d73f5acc6dc14ec62e57aff1321a57c">
+        <source>Recommend products</source>
+        <target state="translated">Recomandă produse</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4507dfb36d73429b900089cbedaa4706">
+        <source>Regenerate API credentials? The current credentials will stop working immediately.</source>
+        <target state="translated">Regenerezi credențialele API? Cele curente vor înceta să funcționeze imediat.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="89af07e486ba5ddf46816195a8eedfaf">
+        <source>Regenerate credentials</source>
+        <target state="translated">Regenerează credențialele</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="33e2e965bd2c4eb1ada9048701147883">
+        <source>Regenerate feed hash? The current feed URL will stop working.</source>
+        <target state="translated">Regenerezi codul feed-ului? URL-ul curent al feed-ului va înceta să funcționeze.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0dcc9d4344bb429b595d5efda118ca1c">
+        <source>Regenerate hash</source>
+        <target state="translated">Regenerează codul</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6327b4e59f58137083214a1fec358855">
+        <source>Retry</source>
+        <target state="translated">Reîncearcă</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5241a2112f0907ba0868b675f41f8b94">
+        <source>s after page load</source>
+        <target state="translated">s după încărcarea paginii</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="248336101b461380a4b2391a7625493d">
+        <source>Saved</source>
+        <target state="translated">Salvat</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d4dccb8ca2dac4e53c01bd9954755332">
+        <source>Save settings</source>
+        <target state="translated">Salvează setările</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="eedf6b8bfc83284c3294ec4b38188e8a">
+        <source>Saving…</source>
+        <target state="translated">Se salvează…</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7c87c6704a969b891b37dd37d4544fdf">
+        <source>Select a shop</source>
+        <target state="translated">Selectează un magazin</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="41174b6b07ce339571c9ca24503b8088">
+        <source>Select the pages below (e.g. About, FAQ, Shipping &amp; Returns). Your AI agent will read them and use that information to answer your customers' questions accurately, live in the on-site chat.</source>
+        <target state="translated">Selectează paginile de mai jos (ex. Despre noi, Întrebări frecvente, Livrare &amp; Retur). Agentul tău AI le va citi și va folosi aceste informații pentru a răspunde corect întrebărilor clienților, direct în chat-ul de pe site.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f4f70727dc34561dfde1a3c529b6205c">
+        <source>Settings</source>
+        <target state="translated">Setări</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9a7e58ee13cb727cb7c4acc68f4cafe5">
+        <source>Settings saved.</source>
+        <target state="translated">Setări salvate.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2ec0639367b01d48ec700286c51b6ac9">
+        <source>Settings saved locally but could not sync with Ovebot.ai.</source>
+        <target state="translated">Setările au fost salvate local, dar nu s-au putut sincroniza cu Ovebot.ai.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7ae9e51992b3f46fde169196c89832a4">
+        <source>Set up a compatible feed URL (e.g. Google Merchant) directly in your %link%.</source>
+        <target state="translated">Configurează un URL de feed compatibil (ex. Google Merchant) direct în %link%.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="10811a985572c16c70e97fbbd055539a">
+        <source>Setup complete!</source>
+        <target state="translated">Configurare finalizată!</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e5b69133254d5f4d95f142b337955118">
+        <source>Setup finished successfully - we still recommend checking the settings in your Ovebot.ai account for the selected agent, available %link%. You'll also find more settings and customizations there that might be useful.</source>
+        <target state="translated">Setup-ul s-a finalizat cu succes - totuși îți recomandăm să verifici și setările din contul tău Ovebot.ai aferente agentului selectat, disponibile %link%. Vei găsi acolo și mai multe setări și personalizări pe care le poți considera utile.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="092d9b38cf646ffe273f3f955c372de3">
+        <source>Shown under the assistant's name in the chat header.</source>
+        <target state="translated">Afișat sub numele asistentului în antetul chat-ului.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ca926071850e356fffae6053b8d81f65">
+        <source>Show the chat bubble on your site</source>
+        <target state="translated">Afișează bula de chat pe site-ul tău</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0398cf6d53b73918a4a10224bd1d44f5">
+        <source>Skipped &quot;%title%&quot; - not enough text content to sync (minimum 10 characters).</source>
+        <target state="translated">Omisă „%title%” - conținut text insuficient pentru sincronizare (minimum 10 caractere).</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d1cbbd46f635ddb0a3b70586a7e5d1b3">
+        <source>Skipped &quot;%title%&quot; - page is not enabled.</source>
+        <target state="translated">Omisă „%title%” - pagina nu este activă.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="eeca92f5eaf4e1f6b185951263c0583a">
+        <source>Skipped - knowledge base limit reached.</source>
+        <target state="translated">Omisă - limita bazei de cunoștințe a fost atinsă.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="08c401e36b08908293cbbcbc64f13ef6">
+        <source>Stacking order (z-index)</source>
+        <target state="translated">Ordine de suprapunere (z-index)</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3d251afaec1b3ff09c6638684c58e1b5">
+        <source>Start Free</source>
+        <target state="translated">Începe gratuit</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="035f4e29da2d6d31303f7d7cfa1be13b">
+        <source>Subtitle</source>
+        <target state="translated">Subtitlu</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="db7bb90618aa8961aaf50602204f687b">
+        <source>Syncing pages…</source>
+        <target state="translated">Se sincronizează paginile…</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a3bd5e9d8f5adb1aaa1f96754e80ae83">
+        <source>Syncing with Ovebot.ai…</source>
+        <target state="translated">Se sincronizează cu Ovebot.ai…</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="38e4148ddebeebdabf1c298a872c230b">
+        <source>Teach the AI chat agent about your products</source>
+        <target state="translated">Învață agentul AI de chat despre produsele tale</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1c442962583d11cbb784144b19d68498">
+        <source>Teach the AI chat agent about your website</source>
+        <target state="translated">Învață agentul AI de chat despre site-ul tău</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c03ed5ed12dcf314d916fbd087d6ab78">
+        <source>The feed is served live, so catalog changes (stock, price, availability) are reflected immediately.</source>
+        <target state="translated">Feed-ul este generat live, deci modificările din catalog (stoc, preț, disponibilitate) se reflectă imediat.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d721757161f7f70c5b0949fdb6ec2c30">
+        <source>Theme</source>
+        <target state="translated">Temă</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fb1a62899ccc0abfb762c5fa5928d3f3">
+        <source>These are the resources your AI agent uses to answer customer questions in the chat. Editing one of the selected pages in PrestaShop updates its entry here automatically - or use &quot;Edit on Ovebot.ai&quot; below to change it directly.</source>
+        <target state="translated">Acestea sunt resursele pe care agentul tău AI le folosește pentru a răspunde la întrebările clienților în chat. Editarea uneia dintre paginile selectate în PrestaShop actualizează automat intrarea de aici - sau folosește „Editează pe Ovebot.ai” mai jos pentru a o modifica direct.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="aacc1038cf47dd8774225785ba0d07f4">
+        <source>Uninstalling disconnects every shop from Ovebot.ai and deletes the module settings. Continue?</source>
+        <target state="translated">Dezinstalarea deconectează toate magazinele de la Ovebot.ai și șterge setările modulului. Continui?</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c1928d0a8df424a14d667f63fbc825ec">
+        <source>Use the built-in feed</source>
+        <target state="translated">Folosește feed-ul integrat</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="aad89391de4da4fe5e14b2fe0ef499b4">
+        <source>Use the built-in product feed</source>
+        <target state="translated">Folosește feed-ul de produse integrat</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f64f516a321829f21a8686d7411c184e">
+        <source>View page</source>
+        <target state="translated">Vezi pagina</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="095be4b2921d65e40d25e3735429f82a">
+        <source>Website pages</source>
+        <target state="translated">Pagini site</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="00a96c449050ae8647bb6400af09627f">
+        <source>When enabled, the AI agent's chat bubble appears on every page of your site so customers can start a conversation.</source>
+        <target state="translated">Când e activată, bula de chat a agentului AI apare pe fiecare pagină a site-ului, astfel încât clienții pot începe o conversație.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="cb0be3a7b8e51afdd7676863e58b8bdc">
+        <source>When enabled, your AI agent can look up order status and tracking.</source>
+        <target state="translated">Când e activată, agentul tău AI poate căuta statusul și urmărirea comenzilor.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="66430fcbc862be7f1d0bd38f1efa1fb2">
+        <source>When enabled, your AI agent recommends products from your catalog in conversations.</source>
+        <target state="translated">Când e activată, agentul tău AI recomandă produse din catalogul tău în conversații.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7005a6a2e34739b5ddac380fef115679">
+        <source>When off, our own feed URL stops working (returns Forbidden) and Ovebot.ai won't be told about it. If you have a custom feed, configure it directly at:</source>
+        <target state="translated">Când e dezactivat, URL-ul feed-ului nostru încetează să funcționeze (întoarce Forbidden), iar Ovebot.ai nu mai este anunțat de el. Dacă ai un feed personalizat, configurează-l direct la:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="95598f1b6de612e356fc53e785beae9c">
+        <source>Widget position</source>
+        <target state="translated">Poziția widget-ului</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="29f9f197e65c4b7185c0fbcbe03c5762">
+        <source>You'll sign in on ovebot.ai and return here to finish setup.</source>
+        <target state="translated">Te vei autentifica pe ovebot.ai și vei reveni aici pentru a finaliza configurarea.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="377c0b1a116d78ea519370a210177eed">
+        <source>You do not have permission to modify the Ovebot.ai module.</source>
+        <target state="translated">Nu ai permisiunea de a modifica modulul Ovebot.ai.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0c4001e754edd93629205fb3946fc1e5">
+        <source>Your AI agent can't answer order-status questions while order tracking is off. You can change its status %link%.</source>
+        <target state="translated">Agentul tău AI nu poate răspunde la întrebări despre statusul comenzilor cât timp tracking-ul comenzilor este dezactivat. Poți modifica statusul %link%.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="77184d745c0e562db98032b0c4b6b257">
+        <source>Your AI agent isn't recommending products right now. You can change its status %link%.</source>
+        <target state="translated">Agentul tău AI nu recomandă produse momentan. Poți modifica statusul %link%.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="73b467c0c0e8195f3bca279e3d087d75">
+        <source>Your AI agent learns your store and answers customers 24/7, in any language.</source>
+        <target state="translated">Agentul tău AI învață magazinul și răspunde clienților 24/7, în orice limbă.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7a53f83bf0139df31e1c1298e5f04462">
+        <source>Your store is now connected to Ovebot.ai. Your AI agent is live on your website right now, ready to chat with customers, recommend products and answer order-status questions.</source>
+        <target state="translated">Magazinul tău este acum conectat la Ovebot.ai. Agentul tău AI este activ pe site chiar acum, gata să discute cu clienții, să recomande produse și să răspundă la întrebări despre statusul comenzilor.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="df6dfdb7885301ce2f0e7571e660d012">
+        <source>Your store stays connected - figures below may be out of date.</source>
+        <target state="translated">Magazinul rămâne conectat - cifrele de mai jos pot fi neactualizate.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="65ce45e6164d8da56f8785b7c307a1c1">
+        <source>The count is per product variation: a product with several combinations (size, colour, etc.) is sent once for each variant that can be ordered, so the agent can recommend exactly the option a customer asks for.</source>
+        <target state="translated">Numărul este pe variații de produs: un produs cu mai multe combinații (mărime, culoare etc.) este trimis o dată pentru fiecare variantă care poate fi comandată, astfel încât agentul să recomande exact opțiunea cerută de client.</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

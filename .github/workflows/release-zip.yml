@@ -1,0 +1,47 @@
+name: build-module-zip
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  zip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+          tools: composer
+
+      - name: Install (autoloader only, no dev dependencies)
+        run: composer install --no-dev --optimize-autoloader --no-interaction
+
+      # The archive holds a single ready-made "ovebotai" folder, so it can be
+      # unzipped straight into /modules (or uploaded in the Module Manager).
+      - name: Build the ovebotai folder
+        run: |
+          mkdir -p build/ovebotai
+          rsync -a ./ build/ovebotai/ \
+            --exclude /.git \
+            --exclude /.github \
+            --exclude /.vscode \
+            --exclude /build \
+            --exclude /tests \
+            --exclude /docs \
+            --exclude /.php-cs-fixer.dist.php \
+            --exclude /.php-cs-fixer.cache \
+            --exclude /composer.lock
+
+      - name: Zip it
+        run: |
+          cd build && zip -r ../ovebotai.zip ovebotai
+          unzip -l ../ovebotai.zip ovebotai/ovebotai.php
+
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: ovebotai.zip
